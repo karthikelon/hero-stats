@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+  }
+  #container {
+    width: 600px;
+    height: 700px;
+    border: 4px solid black;
+    margin: 28vh 25vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #input1{
+    margin: 22px;
+  }
+  #btn1{
+    
+  }
+  #btn1:hover{
+    background-color: #3e8e41;
+    cursor: pointer;
+  }
+  #btn2:hover{
+    background-color: #3e8e41;
+    cursor: pointer;
+  }
+  .hero{
+    margin:3px;
+    padding:3px;
+    border-radius: 3px;
+    border:2px solid black;
+    font-size: medium;
+  }
+  /* #hi { */
+    /* justify-content: center; */
+    /* display: flex; */
+  /* } */
